@@ -1,0 +1,6 @@
+---
+name: LogDrops
+version: 0.0.1
+main: twiqk\LogDrops\Main
+api: 3.22.1
+...
